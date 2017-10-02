@@ -28262,7 +28262,7 @@ var render = function() {
             }
           }),
           _vm._v(" "),
-          _c("v-toolbar-title", [_vm._v("Toolbar UCLLBeacons")])
+          _c("v-toolbar-title", [_vm._v("Toolbar Ucll Ibeacons")])
         ],
         1
       ),

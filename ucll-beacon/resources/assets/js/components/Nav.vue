@@ -27,7 +27,7 @@
         </v-navigation-drawer>
         <v-toolbar fixed class="indigo darken-4" dark>
             <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
-            <v-toolbar-title>Toolbar UCLLBeacons</v-toolbar-title>
+            <v-toolbar-title>Toolbar Ucll Ibeacons</v-toolbar-title>
         </v-toolbar>
         <main>
             <v-container fluid>
