@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rondleiding UCLL</string>
+    <string name="kies_uw_campus">Kies uw Campus</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+</resources>
