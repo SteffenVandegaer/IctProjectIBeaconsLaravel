@@ -14,6 +14,7 @@
     <body>
         <div id="app">
             <b-nav></b-nav>
+            hallo
         </div>
 
         <script src="/js/app.js" charset="utf-8"></script>
