@@ -14,7 +14,7 @@
     <body>
         <div id="app">
             <b-nav></b-nav>
-            hallooo
+            halloooKENAN
         </div>
 
         <script src="/js/app.js" charset="utf-8"></script>
